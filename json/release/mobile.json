@@ -3,7 +3,9 @@
     "name": "2.1.0",
     "desc": "全新升级",
     "line1": "fty.json",
-    "line2": "cns.json",
+    "line2": "fm.json",
+    "line2b": "cns.json",
     "line3": "http://饭太硬.top/tv",
-    "line4": "https://tvbox.cainisi.cf/"
+    "line4": "http://肥猫.live",
+    "line4b": "https://tvbox.cainisi.cf/"
 }
