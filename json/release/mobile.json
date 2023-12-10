@@ -1,6 +1,6 @@
 {
-    "status":1,
-    "statusMsg":"",
+    "status":0,
+    "statusMsg":"当前软件不可用",
     "code": 210,
     "name": "2.1.0",
     "desc": "全新升级",
