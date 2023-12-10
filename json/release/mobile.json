@@ -1,4 +1,6 @@
 {
+    "status":1,
+    "statusMsg":"",
     "code": 210,
     "name": "2.1.0",
     "desc": "全新升级",
