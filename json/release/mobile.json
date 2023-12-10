@@ -1,6 +1,6 @@
 {
-    "status":0,
-    "statusMsg":"由于版权问题，当前应用暂不提供服务，3秒后退出",
+    "status":1,
+    "statusMsg":"",
     "code": 210,
     "name": "2.1.0",
     "desc": "全新升级",
