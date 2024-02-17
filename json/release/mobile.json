@@ -1,9 +1,9 @@
 {
     "status":1,
     "statusMsg":"",
-    "code": 223,
-    "name": "2.2.3",
-    "desc": "全新升级",
+    "code": 225,
+    "name": "0217",
+    "desc": "0217版本更新",
     "line1": "fty.json",
     "line2": "fm.json",
     "line2b": "cns.json",
