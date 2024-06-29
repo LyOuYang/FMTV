@@ -1,7 +1,7 @@
 {
     "status":1,
     "statusMsg":"",
-    "code": 240,
+    "code": 233,
     "name": "240",
     "desc": "优化搜索范围",
     "line1": "fty.json",
